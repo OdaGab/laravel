@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Projeto desenvolvido para fins didáticos
+
+Este projeto foi desenvolvido com o objetivo de aprendizagem e prática dos conteúdos estudados. Seu foco é exclusivamente didático, visando a aplicação de conceitos teóricos em um contexto prático, sem fins comerciais. O projeto serve como apoio ao processo educacional e ao desenvolvimento de habilidades técnicas.
+
 ## Sobre Laravel
 
 Laravel é um framework de aplicações web com sintaxe expressiva e elegante. Acreditamos que o desenvolvimento deve ser uma experiência prazerosa e criativa para ser verdadeiramente gratificante. O Laravel simplifica o desenvolvimento, facilitando tarefas comuns em muitos projetos web
